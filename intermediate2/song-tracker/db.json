@@ -1,0 +1,54 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Bohemian Rhapsody",
+      "year": "1975",
+      "imgUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=300&fit=crop",
+      "artist": "Queen",
+      "genre": "Rock",
+      "isFavorite": false,
+      "createdAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Hotel California",
+      "year": "1976",
+      "imgUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400&h=300&fit=crop",
+      "artist": "Eagles",
+      "genre": "Rock",
+      "isFavorite": false,
+      "createdAt": "2024-01-16T14:20:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Imagine",
+      "year": "1971",
+      "imgUrl": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=400&h=300&fit=crop",
+      "artist": "John Lennon",
+      "genre": "Pop",
+      "isFavorite": true,
+      "createdAt": "2024-01-17T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Stairway to Heaven",
+      "year": "1971",
+      "imgUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=300&fit=crop",
+      "artist": "Led Zeppelin",
+      "genre": "Rock",
+      "isFavorite": true,
+      "createdAt": "2024-01-18T16:45:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Billie Jean",
+      "year": "1983",
+      "imgUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400&h=300&fit=crop",
+      "artist": "Michael Jackson",
+      "genre": "Pop",
+      "isFavorite": true,
+      "createdAt": "2024-01-19T11:30:00Z"
+    }
+  ]
+}

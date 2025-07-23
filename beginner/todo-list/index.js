@@ -30,7 +30,7 @@ $(document).ready(function () {
   }
 
   //call the render function
-  // render();
+  render();
 
   // Add a new to-do
   $("form").submit(function (event) {
